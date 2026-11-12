@@ -1,0 +1,8 @@
+username: "" # 用户名
+password: "" # 密码
+ai:
+  base_url: "https://api.deepseek.com/v1" # DeepSeek API 接口地址
+  model: "deepseek-chat"                  # DeepSeek 模型名称
+  apikey: "API Key"       # 在此处填入你的 DeepSeek API Key
+driver_type: "edge" # 支持firefox,chrome,edge[默认edge][cite: 2]
+sleep_time: 10 # 单位: s[cite: 2]
